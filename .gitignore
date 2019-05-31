@@ -1,0 +1,21 @@
+lib/
+obj/
+
+# vs
+**/*.user
+**/.vs/
+**/*.vcxproj
+**/*.filters
+**/*.sln
+
+# vscode
+.vscode/ipch
+
+# codeblocks
+**/*.layout
+**/*.depend
+**/*.cscope_file_list
+**/*.save-failed
+**/*.workspace
+**/*.cbp
+**/*.make
